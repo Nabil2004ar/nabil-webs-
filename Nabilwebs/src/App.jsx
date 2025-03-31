@@ -129,9 +129,10 @@ const vaciarCarrito = () => {
      {/* Imagen de rebajas al lado */}
      <div className="rebajas">
         <img
-          src="https://th.bing.com/th/id/OIP.rxB30MNvIWqdP2tIdDzJSQAAAA?pid=ImgDet&w=178&h=254&c=7&dpr=1,5" // Reemplaza con la URL o ruta de tu imagen de rebajas
+          src="https://th.bing.com/th/id/OIP.CKu1tmGg3WmRr7zRFGFkAgHaJh?pid=ImgDet&w=178&h=227&c=7&dpr=1,5" // Reemplaza con la URL o ruta de tu imagen de rebajas
           alt="Rebajas"
-        />
+/>
+        <img src="https://www.eroski.es/wp-content/uploads/2019/09/Oferta-Eroski-Semanal-City-Franq-castellano-pdf.jpg" alt="Rebajas" />
       </div>
       {/* Botón para filtrar */}
       <button id="boton" onClick={handleFiltrar}>
